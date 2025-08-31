@@ -78,4 +78,9 @@ Your submission is your final committed and pushed repository. Make sure to:
 
 ## Grading
 
-This assignment will be graded on: - **Correctness** (40 points): Code runs and produces correct results - **Documentation** (25 points): Clear explanations and proper formatting - **File Organization** (25 points): Correct directory structure and file placement - **Completeness** (10 points): All problems attempted and submitted
+This assignment will be graded on: 
+
+- **Correctness** (40 points): Code runs and produces correct results 
+- **Documentation** (25 points): Clear explanations and proper formatting 
+- **File Organization** (25 points): Correct directory structure and file placement 
+- **Completeness** (10 points): All problems attempted and submitted
