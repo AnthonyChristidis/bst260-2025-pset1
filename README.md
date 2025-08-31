@@ -78,7 +78,6 @@ Your submission is your final committed and pushed repository. Make sure to:
 
 ## Grading
 
-::: {.table-responsive}
 | **Criteria** | **Excellent (A)** | **Good (B)** | **Satisfactory (C)** | **Needs Improvement (D-F)** |
 |:-------------|:------------------|:-------------|:---------------------|:---------------------------|
 | **File Organization & Structure (25 points)** | 23-25: Perfect directory structure with all required folders (`img`, `docs`, `data`, `code`) in correct locations. Files properly named and placed. | 20-22: Correct structure with minor placement issues. Most files in right locations. | 15-19: Basic structure present but some directories missing or files misplaced. | 0-14: Poor organization, missing directories, files in wrong locations. |
@@ -88,19 +87,10 @@ Your submission is your final committed and pushed repository. Make sure to:
 | **Data Visualization & File I/O (10 points)** | 9-10: Plot displays correctly, reads coefficients from file successfully, demonstrates understanding of relative vs absolute paths. | 8: Plot and file reading work with minor issues. Shows path understanding. | 6-7: Basic plotting and file reading implemented but with some issues. | 0-5: Plot missing/incorrect, file reading doesn't work, or major path understanding problems. |
 | **Documentation & Code Comments (5 points)** | 5: Excellent documentation, clear explanations of process, code well-commented, screenshot included properly. | 4: Good documentation with minor gaps, screenshot included. | 3: Basic documentation present, some explanations missing. | 0-2: Poor documentation, missing explanations, screenshot missing or poorly integrated. |
 | **Technical Requirements & Submission (5 points)** | 5: All files committed and pushed correctly, repository structure visible on GitHub, follows naming conventions perfectly. | 4: Properly submitted with minor naming convention issues. | 3: Submitted but with some technical issues or naming problems. | 0-2: Poor submission, files missing from GitHub, major technical problems. |
-:::
 
 ## Key Assessment Points
 
-**What Makes This Assignment Unique:**
-
-- Heavy emphasis on **file organization** (25%) - this is a foundational skill
-- **Unix commands** get significant weight (20%) - students must show their work
-- **Quarto rendering** is critical (20%) - documents must actually work
-- **Mathematical computation** with programming logic (15%)
-- **Practical skills** like file I/O and plotting (10%)
-
-**Specific Things Graders Should Look For:**
+**Specific Things Graders Will Look For:**
 
 1. **Commands shown**: Students must include the actual Unix commands they used
 2. **Directory structure**: Exact folder names and placement as specified
